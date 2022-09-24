@@ -12,8 +12,7 @@
 A full stack CRUD web application where users can post, like, and comment on video posts made by each other. Users browse by popular topics and have accounts suggested to them.
 
 ## Usage:
-<!-- Disabled until SPA workaround is found
-To use the site on the deployed site click on the link in the [Link](#heroku-link) section -->
+To use the site on the deployed site click on the link in the [Link](#link) section
 
 To run the site locally, clone and run `npm install` followed by `npm run start`
 
