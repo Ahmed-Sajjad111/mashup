@@ -3,7 +3,7 @@
 # Mashup
 
 ## Directory:
-* [Link](https://ahmed-sajjad111.github.io/profile-editor/)
+* [Link](#link)
 * [Usage](#usage)
 * [Features](#features)
 * [Technologies](#technologies-and-frameworks)
@@ -17,6 +17,9 @@ To use the site on the deployed site click on the link in the [Link](#heroku-lin
 
 To run the site locally, clone and run `npm install` followed by `npm run start`
 
+## Link:
+[Deployed Link](https://mashup-zb8w.vercel.app/)
+
 ## Features:
 - Ability to sign in with Google
 - Ability to create a post
@@ -25,12 +28,20 @@ To run the site locally, clone and run `npm install` followed by `npm run start`
 - Ability to browse by subject
 
 ## Technologies And Frameworks:
+- TypeScript
 - JavaScript
 - HTML
 - CSS
 - Node
 - React
-- React Router
+- Google OAuth
+- Sanity
+- Axios
+- JWT Decode
+- Next
+- uuid
+- zustand
+
 
 ## Contributors, Sept 2022:
 [Ahmed Sajjad](https://github.com/Ahmed-Sajjad111)
