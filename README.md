@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![Apache-2.0](https://img.shields.io/badge/Apache-License-blue.svg)](https://opensource.org/licenses/Apache-2.0)  [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
 
-## Getting Started
+# Mashup
 
-First, run the development server:
+## Directory:
+* [Link](https://ahmed-sajjad111.github.io/profile-editor/)
+* [Usage](#usage)
+* [Features](#features)
+* [Technologies](#technologies-and-frameworks)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Description: 
+A full stack CRUD web application where users can post, like, and comment on video posts made by each other. Users browse by popular topics and have accounts suggested to them.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage:
+<!-- Disabled until SPA workaround is found
+To use the site on the deployed site click on the link in the [Link](#heroku-link) section -->
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+To run the site locally, clone and run `npm install` followed by `npm run start`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Features:
+- Ability to sign in with Google
+- Ability to create a post
+- Ability to like a post
+- Ability to comment on a post
+- Ability to browse by subject
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Technologies And Frameworks:
+- JavaScript
+- HTML
+- CSS
+- Node
+- React
+- React Router
 
-## Learn More
+## Contributors, Sept 2022:
+[Ahmed Sajjad](https://github.com/Ahmed-Sajjad111)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Questions? Contact Me!:
+[Contact Me](mailto:uasajjad11198@gmail.com)
